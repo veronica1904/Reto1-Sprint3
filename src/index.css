@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap");
+body {
+  margin: 0;
+  font-family: "Raleway";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(
+    180deg,
+    rgba(28, 36, 49, 1) 26.9%,
+    rgba(24, 31, 42, 1) 26.9%
+  );
+  /* color: hsl(218, 28%, 90%) !important; */
+  color: #fff;
+  font-size: 14px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Open Sans";
+  font-weight: 700;
+}
+
+@media (max-width: 768px) {
+  body {
+    background: linear-gradient(
+      180deg,
+      rgba(28, 36, 49, 1) 18.8%,
+      rgba(24, 31, 42, 1) 18.8%
+    );
+  }
+}
+@media (max-width: 640px) {
+  body {
+    background: linear-gradient(
+      180deg,
+      rgba(28, 36, 49, 1) 18.3%,
+      rgba(24, 31, 42, 1) 18.3%
+    );
+  }
+}
+@media (max-width: 608px) {
+  body {
+    background: linear-gradient(
+      180deg,
+      rgba(28, 36, 49, 1) 18.1%,
+      rgba(24, 31, 42, 1) 18.1%
+    );
+  }
+}
+@media (max-width: 593px) {
+  body {
+    background: linear-gradient(
+      180deg,
+      rgba(28, 36, 49, 1) 17.8%,
+      rgba(24, 31, 42, 1) 17.8%
+    );
+  }
+}
+@media (max-width: 559px) {
+  body {
+    background: linear-gradient(
+      180deg,
+      rgba(28, 36, 49, 1) 17.7%,
+      rgba(24, 31, 42, 1) 17.7%
+    );
+  }
+}
+@media (max-width: 539px) {
+  body {
+    background: linear-gradient(
+      180deg,
+      rgba(28, 36, 49, 1) 18.2%,
+      rgba(24, 31, 42, 1) 18.2%
+    );
+  }
+}
+@media (max-width: 519px) {
+  body {
+    background: linear-gradient(
+      180deg,
+      rgba(28, 36, 49, 1) 17.8%,
+      rgba(24, 31, 42, 1) 17.8%
+    );
+  }
+}
+@media (max-width: 451px) {
+  body {
+    background: linear-gradient(
+      180deg,
+      rgba(28, 36, 49, 1) 12%,
+      rgba(24, 31, 42, 1) 12%
+    );
+  }
+}
+@media (max-width: 432px) {
+  body {
+    background: linear-gradient(
+      180deg,
+      rgba(28, 36, 49, 1) 11.8%,
+      rgba(24, 31, 42, 1) 11.8%
+    );
+  }
+}
+@media (max-width: 413px) {
+  body {
+    background: linear-gradient(
+      180deg,
+      rgba(28, 36, 49, 1) 11.6%,
+      rgba(24, 31, 42, 1) 11.6%
+    );
+  }
+}
