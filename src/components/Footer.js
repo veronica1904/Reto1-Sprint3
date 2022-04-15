@@ -17,7 +17,7 @@ function Footer() {
       <Description>
         <LogoContainer>
           <Logo
-            src=""
+            src="https://res.cloudinary.com/veronicaduque/image/upload/v1649961138/sprint3-reto1/logo_sejudr.svg"
             alt="logo"
           ></Logo>
         </LogoContainer>
